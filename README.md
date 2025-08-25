@@ -1,2 +1,3 @@
 # Genomics
-contains code to extract gene sequences with unique gene IDs, protein sequences with gene names, and perform sequence alignments.
+1.extract_gene_sequences: contains code to extract gene sequences with unique gene IDs, protein sequences with gene names, and perform sequence alignments.
+2.sanky plot:code to generate a Sankey diagram that visualizes the connections between different bacterial strains and their associated virulence genes.
